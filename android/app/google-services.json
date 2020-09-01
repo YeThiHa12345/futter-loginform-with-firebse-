@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513011986082",
+    "firebase_url": "https://yethihaloginform.firebaseio.com",
+    "project_id": "yethihaloginform",
+    "storage_bucket": "yethihaloginform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513011986082:android:49d770e76597a6178071fb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513011986082-mqqe88r4bv12rd9kfjpjeo62se45ar0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-qwTaN-2ic89zM0yLrsVCkOMJsrWrDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513011986082-mqqe88r4bv12rd9kfjpjeo62se45ar0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
